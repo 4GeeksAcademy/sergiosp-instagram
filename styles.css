@@ -1,0 +1,65 @@
+body {
+    background-color: grey;
+    
+    
+}
+
+section {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    gap: 100px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0px; 
+    background-color: white;
+    height: auto;
+    padding: 30px;
+    font-family: "Boldonse";
+    font-weight: 400;
+    
+}
+
+
+
+.box{
+    background-color: white;
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    
+}
+
+#header-box {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px; 
+    margin-left: 5px;
+    align-items: center;
+    box-sizing: border-box;
+    
+}
+
+.title-photo {
+    font-family: "Exo 2", sans-serif;
+}
+
+#description {
+    padding-left: 10px;
+}
+
+p {
+    margin-left: 15px;
+    font-family: "Josefin Sans", sans-serif;
+}
